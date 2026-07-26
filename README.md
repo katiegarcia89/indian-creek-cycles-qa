@@ -86,3 +86,23 @@ indian-creek-cycles-qa/
 ├── screenshots/
 └── regression-testing/
     └── regression-results.md
+indian-creek-cycles-qa/
+├── README.md
+├── test-plan/
+│   └── test-plan.md
+├── test-cases/
+│   └── manual-test-cases.xlsx
+├── bug-reports/
+│   ├── BUG-001-active-reservations.md
+│   ├── BUG-002-expired-pending-reservations.md
+│   └── BUG-003-ride-guide-reservation-policy.md
+├── exploratory-testing/
+│   └── session-notes.md
+├── regression-testing/
+│   └── regression-results.md
+├── screenshots/
+│   ├── BUG-001-dashboard.png
+│   ├── BUG-002-pending.png
+│   └── BUG-003-ride-guide.png
+└── test-summary/
+    └── final-test-summary.md
