@@ -1,0 +1,58 @@
+# Regression Testing Results
+
+## Project
+Indian Creek Cycles
+
+## Regression Test Cycle
+Cycle 1
+
+## Objective
+Verify that previously reported defects have been resolved and that recent changes have not introduced new issues into existing functionality.
+
+## Environment
+- Browser: Google Chrome
+- Operating System: macOS
+- Test Type: Manual Regression Testing
+
+---
+
+## Regression Summary
+
+| Test Case | Related Bug | Status | Notes |
+|-----------|-------------|--------|-------|
+| TC-001 | — | ⏳ Not Executed | Homepage loads successfully. |
+| TC-002 | BUG-001 | ⏳ Not Executed | Verify navigation links function correctly after fixes. |
+| TC-007 | BUG-002 | ⏳ Not Executed | Verify reservation creation still functions correctly. |
+| TC-010 | BUG-003 | ⏳ Not Executed | Verify duplicate reservation prevention behaves as expected. |
+| TC-019 | BUG-004 | ⏳ Not Executed | Verify dashboard revenue matches reservation data. |
+
+---
+
+## Defects Retested
+
+| Defect ID | Status | Result |
+|-----------|--------|--------|
+| BUG-001 | Pending Retest | Awaiting developer fix. |
+| BUG-002 | Pending Retest | Awaiting developer fix. |
+| BUG-003 | Pending Retest | Awaiting developer fix. |
+| BUG-004 | Pending Retest | Awaiting developer fix. |
+
+---
+
+## New Defects Introduced
+
+No new regression defects were identified during this test cycle.
+
+---
+
+## Overall Result
+
+Regression testing has been prepared but has not yet been executed. Once defects are addressed, all affected functionality should be retested before closing the associated bug reports.
+
+---
+
+## Tester
+
+**Tester:** Katie Garcia
+
+**Date:** _(To be completed)_
