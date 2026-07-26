@@ -73,19 +73,7 @@ Additional environments will be documented as testing progresses.
 ## Repository Contents
 
 ```text
-indian-creek-cycles-qa/
-├── README.md
-├── test-plan/
-│   └── test-plan.md
-├── test-cases/
-│   └── manual-test-cases.xlsx
-├── defect-reports/
-│   └── defect-log.xlsx
-├── exploratory-testing/
-│   └── session-notes.md
-├── screenshots/
-└── regression-testing/
-    └── regression-results.md
+
 indian-creek-cycles-qa/
 ├── README.md
 ├── test-plan/
